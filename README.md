@@ -6,3 +6,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 We are now adding steps for GitHub tutorial as well.
+
+OK now we're going to do a PULL
